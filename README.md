@@ -1,5 +1,5 @@
 # About Me:
-I build backend systems with Python — APIs, databases, auth, the works. <br>Currently going deep on AI agents and LLMs.<br>I care about writing code I can actually explain, not just code that runs.<br><br>Status<br>🎓 Final year BCA — graduating 2027<br>🔭 Currently exploring AI agents and LLM tooling<br>🛠️ Open to remote internships and freelance backend work<br><br>What I Build<br><br>Most of my repos are backend systems — REST APIs, auth flows, database-backed applications. <br>I lean toward creative and game-adjacent ideas over generic business apps. <br>If a project doesn't interest me, I don't build it.<br><br>Current focus: AI-integrated backends and real-time systems.<br>
+I build backend systems with Python — APIs, databases, auth, the works. <br>Currently going deep on AI agents and LLMs.<br>I care about writing code I can actually explain, not just code that runs.<br><br>Status<br>🎓 Final year BCA — graduating 2027<br>🔭 Currently exploring AI agents and LLM tooling<br>🛠️ Open to remote internships and freelance backend work<br><br>What I Build<br><br>Most of my repos are backend systems — REST APIs, auth flows, database-backed applications. <br>I lean toward creative and game-adjacent ideas over generic business apps. 
 
 
 ## 🌐 Socials:
