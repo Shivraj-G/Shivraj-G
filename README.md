@@ -2,7 +2,7 @@
 Me? I build backend/AI systems with Python, FastAPI, SQLAlchemy — APIs, databases, auth, the works. <br>Explore ways of using LLMs, Building Agents.<br>Writing systems and code I actually understand, not just what runs.<br>
 ### Currently:
 - Final-year BCA student, graduating 2027
-- Exploring the possibilities of Psychology, Criminology merging with AI
+- A fresh brew of AI, Psychology and Criminology
 
 ## Open Source Contributions:
 1.  Flisk (open source), flisk.sh
