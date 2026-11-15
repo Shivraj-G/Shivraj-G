@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="banner.jpg" width="100%" alt="Profile Banner">
+</p>
 # Just Coffeeing with kitty..wassup?
 Me? I build backend/AI systems with Python, FastAPI, SQLAlchemy — APIs, databases, auth, the works. <br>Explore ways of using LLMs, Building Agents.<br>Writing systems and code I actually understand, not just what runs.<br>
 ### Currently:
