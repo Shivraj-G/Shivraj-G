@@ -1,6 +1,6 @@
-<p align="center">
+<!-- <p align="center">
   <img src="assets/banner.png" width="100%" alt="Profile Banner">
-</p>
+</p>  -->
 
 # Just Coffeeing with kitty..wassup?
 Me? I build backend/AI systems with Python, FastAPI, SQLAlchemy — APIs, databases, auth, the works. <br>Explore ways of using LLMs, Building Agents.<br>Writing systems and code I actually understand, not just what runs.<br>
